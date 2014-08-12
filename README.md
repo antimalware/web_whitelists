@@ -1,6 +1,6 @@
 ﻿Web whitelists
-
 ====================
+
 Whitelist example:
 
 ```json
